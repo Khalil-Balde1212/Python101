@@ -10,7 +10,7 @@ print("Hello " + "World!") #you can add strings together
 
 #casting
 print("My integer is: " + str(myInteger))
-    #integers are not numbers! So you have to tell the computer to turn an integer into a string using the str() function
+    #integers are not text! So you have to tell the computer to turn an integer into a string using the str() function
 
 #inputs
 print("\npress enter!")
