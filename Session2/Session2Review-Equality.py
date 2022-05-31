@@ -20,3 +20,6 @@ if(myNum >= 1):
 if(myNum > 10):
     print("My number is huge!")
 
+# != asks if myNum isn't 10
+if(myNum != 10):
+    print("My number is NOT 10!")
