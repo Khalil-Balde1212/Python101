@@ -3,8 +3,7 @@ import random
 player_name = ""
 player_max_hp = 10;
 player_cur_hp = 10;
-player_weapon = 0;
-player_weapon_dmg = [1, 2, 4, 6, 100] 
+player_weapon_dmg = 2;
 
 print("Hello welcome to Dino Hunter")
 print("What is your name?")
@@ -50,5 +49,5 @@ if(gameStart == True):
     print("\n\n\n")
     print("The rest of this game is under development!")
 
-    
+    # we will do an example of combat during session 3
 
